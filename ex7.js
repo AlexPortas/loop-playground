@@ -37,6 +37,5 @@
      } else {
          console.log(`El número ${i} es impar!`)
      }
- }
 }
 
